@@ -20,6 +20,8 @@ Run "four_color_theorem.pde" by Processing
 ```
 git clone git@github.com:rmkm/four_color_theorem.git
 ```
+or  
+Download zip file
 
 ## Contribution
 
