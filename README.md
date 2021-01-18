@@ -4,7 +4,7 @@ Four color theorem Demo
 Overview
 
 ## Description
-Four color theorem demo by using Processing. The map is Kanagawa prefecture in Tokyo in Japan.
+Four color theorem demo by using Processing. The map is Kanagawa prefecture in Japan.
 
 ## Demo
 
