@@ -1,7 +1,6 @@
 Four color theorem Demo
 ====
-
-Overview
+![screenshot1](https://github.com/rmkm/four_color_theorem/assets/36981371/7accb818-f1c2-4d0a-b949-5b6275be79dd)
 
 ## Description
 Four color theorem demo by using Processing. The map is Kanagawa prefecture in Japan.
